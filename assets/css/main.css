@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+del a {
+  text-decoration: line-through;
+  text-decoration-color: #666;
+}
+
 /* Basic */
 
 	html {
